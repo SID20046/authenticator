@@ -13,7 +13,7 @@ connectDB();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://authenticator2-theta.vercel.app/",
+  "https://authenticator-lemon.vercel.app/",
 ];
 
 app.use(express.json());
